@@ -45,7 +45,6 @@ var navFirst = "Yo, the navigator goes first definitely";
 console.log((compare(hacker1, hacker2) == -1) ? driverFirst : navFirst);
 
 //Bonus
-
 function palindrome(phrase) {
   return phrase.replace(/\s/g, '').replace(/[^\w\s]/gi, '').toLowerCase() == phrase.replace(/\s/g, '').replace(/[^\w\s]/gi, '').toLowerCase().split('').reverse().join('');
 }
@@ -55,7 +54,6 @@ console.log (palindrome("race car") ? "Yes" : "No");
 console.log (palindrome("Ironhackers") ? "Yes" : "No");
 
 // Lorem ipsum generator
-
 var lorem = "Convallis elit erat vestibulum urna diam potenti nostra sollicitudin. Nullam sed nibh. Velit proin id. Placerat magna arcu. Arcu nibh tempor. Posuere parturient aenean gravida erat et. Viverra ut vivamus. Fermentum neque placerat. Phasellus pellentesque gravida suscipit tempus mattis in pellentesque lectus. Nunc diam eu. Justo amet sed euismod pellentesque pellentesque. Erat tellus nonummy risus nibh vel. Sit aliquam sodales a turpis sit. Eu nec id vel dui fusce sit vestibulum duis cras id mauris. Id velit duis diam dignissim ac nec varius orci tortor taciti nisl leo sed ultrices. Sapien placerat id.";
 
 function countWords(str) {
