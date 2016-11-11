@@ -2,7 +2,7 @@
 
 # Pair Programming | Basic JavaScript Algorithms
 
-Welcome to your first pair-programming exercise in IronHack!
+Welcome to your first pair-programming exercise at IronHack!
 
 The goal of this exercise is to get you acquainted with the different control structures we have in JavaScript.
 
@@ -10,7 +10,9 @@ Ready?
 
 ### Introduction
 
-For this Pair-Programming activity we are going to use Repl.it, a JavaScript [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) that runs in the browser. We can type javascript code in an editor, and then execute it and see the results in the REPL.
+For this Pair-Programming activity we are going to use a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop). You can fine a REPL that runs in the browser for programming languages as JavaScript in [repl.it](https://repl.it/)
+
+We could also type JavaScript code in an editor, and then execute it to see the results in the REPL.
 
 Ready to start?
 
@@ -30,7 +32,7 @@ Ready to start?
 
 ### Submission
 
- When you are done and you have checked that everything works fine, go to https://gist.github.com/, create a new [secret gist](https://help.github.com/articles/about-gists/#secret-gists) and send it to your Instructor.
+When you are done and you have checked that everything works fine, go to https://gist.github.com/, create a new [secret gist](https://help.github.com/articles/about-gists/#secret-gists) and send it to your Instructor.
  
  ![](https://i.imgur.com/ux5em6j.png)
 
