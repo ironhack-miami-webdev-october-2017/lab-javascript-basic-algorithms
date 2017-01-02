@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/1QgrNNw.png)
 
-# Pair Programming | Basic JavaScript Algorithms
+# JS | Basic Algorithms
 
-Welcome to your first pair-programming exercise at IronHack!
+Welcome to your first bootcamp exercise at IronHack!
 
 The goal of this exercise is to get you acquainted with the different control structures we have in JavaScript.
 
