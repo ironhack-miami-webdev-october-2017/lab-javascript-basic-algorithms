@@ -1,4 +1,4 @@
-![](https://i.imgur.com/1QgrNNw.png)
+![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
 
 # JS | Basic Algorithms
 
@@ -8,7 +8,7 @@ The goal of this exercise is to get you acquainted with the different control st
 
 Ready?
 
-### Introduction
+## Introduction
 
 For this Pair-Programming activity we are going to use a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop). You can fine a REPL that runs in the browser for programming languages as JavaScript in [repl.it](https://repl.it/)
 
@@ -16,7 +16,7 @@ We could also type JavaScript code in an editor, and then execute it to see the 
 
 Ready to start?
 
-### Environment Setup
+## Requirements
 
 - Go to [repl.it](https://repl.it/languages/javascript) and create an account (or login if you have one)
 - Open a new repl.it and make sure the language is ==JavaScript==
@@ -30,7 +30,7 @@ Ready to start?
 
   ![](https://i.imgur.com/4TQislb.png)
 
-### Submission
+## Submission
 
 When you are done and you have checked that everything works fine, go to https://gist.github.com/, create a new [secret gist](https://help.github.com/articles/about-gists/#secret-gists) and send it to your Instructor.
  
@@ -40,9 +40,9 @@ When you are done and you have checked that everything works fine, go to https:/
 **Remember:** Remember to add the extension of the file `fileName`**.js** in the *"Filename including extension"* input box so you can enjoy [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) in your gist
 :::
  
-### Exercise
+## Exercise
 
-#### Names and Input
+### Names and Input
 
 1. Create a variable `hacker1` with the driver's name
 
@@ -52,14 +52,14 @@ When you are done and you have checked that everything works fine, go to https:/
 
 4. Print `"The navigator's name is YYYY"`
 
-#### Conditionals
+### Conditionals
 
 5. Depending on which name [is longer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length), print:
 	- `The Driver has the longest name, it has XX characters` or 
 	- `Yo, navigator got the longest name, it has XX characters` or
 	- `wow, you both got equally long names, XX characters!!`
 
-#### Loops
+### Loops
 
 6. Print all the characters of the driver's name, separated by a space and [in capitals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
   ie. `"J O H N"`
@@ -72,7 +72,7 @@ When you are done and you have checked that everything works fine, go to https:/
   - `Yo, the navigator goes first definitely`
   - `What?! You both got the same name?`
 
-#### Bonus Time!
+### Bonus Time!
 
 9. Ask the user for a new string and check if it's a [Palindrome](https://en.wikipedia.org/wiki/Palindrome). Examples of palindromes:
 	- "A man, a plan, a canal, Panama!"
@@ -89,7 +89,7 @@ When you are done and you have checked that everything works fine, go to https:/
   - Make your program count the number of words in the string
   - Make your program count the number of times the latin word [`et`](https://en.wiktionary.org/wiki/et#Latin)appears
 
-## Useful Resources
+## Extra Resources
 
 - [prompt() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) | Ask user for input
 - [String - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
